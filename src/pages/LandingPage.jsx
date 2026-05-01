@@ -15,7 +15,7 @@ export default function LandingPage() {
 
       {/* Hero Section */}
       <div className="max-w-6xl mx-auto px-4 py-20 text-center">
-        <h1 className="text-5xl font-bold text-white mb-6">Welcome to Our Platform</h1>
+        <h1 className="text-5xl font-bold text-white mb-6">Welcome</h1>
         <p className="text-xl text-indigo-100 mb-8">
           Experience the best routing and navigation in React
         </p>
